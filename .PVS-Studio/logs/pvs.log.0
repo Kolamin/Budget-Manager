@@ -1,0 +1,10 @@
+[INFO][17:28:48][1]: ********************************
+[INFO][17:28:48][1]: Native library search paths: 
+[INFO][17:28:48][1]: C:\Users\DIS\AppData\Roaming\PVS-Studio-Java\7.08.39365
+[INFO][17:28:48][1]: .
+[INFO][17:28:48][1]: C:\Users\DIS\AppData\Roaming\PVS-Studio-Java\7.08.39365\..
+[INFO][17:28:48][1]: C:\Users\DIS\AppData\Roaming\PVS-Studio-Java\7.08.39365\..\..
+[INFO][17:28:48][1]: C:\Users\DIS\AppData\Roaming\PVS-Studio-Java\7.08.39365\..\..\build
+[INFO][17:28:48][1]: Additional path: native/win
+[INFO][17:28:48][1]: Native library found: C:\Users\DIS\AppData\Roaming\PVS-Studio-Java\7.08.39365\native\win\analysis-core.dll
+[INFO][17:28:48][1]: ********************************
